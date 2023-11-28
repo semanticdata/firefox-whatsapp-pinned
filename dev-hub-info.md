@@ -6,7 +6,7 @@ WhatsApp Pinned
 
 ## Summary (< 250 chars)
 
-Provides a customizable keyboard shortcut and button to open or toggle Whastapp Web in a pinned tab.
+Open, Go to, or Toggle a pinned tab with the WhatsApp Web app in it. This extensions provides a customizable keyboard shortcut, and button to open or toggle the pinned tab.
 
 ## Description
 
