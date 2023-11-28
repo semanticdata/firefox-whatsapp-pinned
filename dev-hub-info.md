@@ -2,7 +2,7 @@
 
 ## Name
 
-Pinned WhatsApp
+WhatsApp Pinned
 
 ## Summary (< 250 chars)
 
