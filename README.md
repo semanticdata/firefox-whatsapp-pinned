@@ -1,4 +1,4 @@
-<h1 align=center><img src="./icons/48x48.png" width="64" height="64" />WhatsApp Pinned</h1>
+<h1 align=center><img src="./icons/48x48.png" width="64" height="64" /> WhatsApp Pinned</h1>
 
 <!-- <p align=center>
 <img alt="Mozilla Add-on" src="https://img.shields.io/amo/v/{2b38cb05-9cff-44a7-b9f1-7cc575afab8a}">
