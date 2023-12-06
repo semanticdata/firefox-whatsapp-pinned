@@ -22,13 +22,21 @@ button {
     border-radius: 5px !important;
 }
 
-.author,
+.site-author {
+    color: rebeccapurple;
+}
+
+.site-author:hover {
+    color: red;
+}
+
 .fa-heart {
     color: rebeccapurple;
 
-    &:hover {
-        color: red;
-    }
+}
+
+.fa-heart:hover {
+    color: red;
 }
 
 ::selection {
