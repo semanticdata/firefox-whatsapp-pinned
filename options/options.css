@@ -8,6 +8,10 @@ section {
     padding-top: 1rem !important;
 }
 
+h1 {
+    line-height: 1.5 !important;
+}
+
 p {
     padding-top: 4rem;
 }
