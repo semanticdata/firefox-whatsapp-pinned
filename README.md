@@ -1,10 +1,10 @@
 <h1 align=center><img src="./icons/48x48.png" width="64" height="64" /> WhatsApp Pinned</h1>
 
 <p align=center>
-<img alt="Mozilla Add-on" src="https://img.shields.io/amo/v/  {f2d56336-0f16-4870-bf64-84b3fd97c9c0} ">
-<img src="https://img.shields.io/amo/rating/  {f2d56336-0f16-4870-bf64-84b3fd97c9c0} " />
-<img src="https://img.shields.io/amo/dw/  {f2d56336-0f16-4870-bf64-84b3fd97c9c0} " />
-<img src="https://img.shields.io/amo/users/  {f2d56336-0f16-4870-bf64-84b3fd97c9c0} " />
+<img alt="Mozilla Add-on" src="https://img.shields.io/amo/v/{f2d56336-0f16-4870-bf64-84b3fd97c9c0}" />
+<img src="https://img.shields.io/amo/rating/{f2d56336-0f16-4870-bf64-84b3fd97c9c0}" />
+<img src="https://img.shields.io/amo/dw/{f2d56336-0f16-4870-bf64-84b3fd97c9c0}" />
+<img src="https://img.shields.io/amo/users/{f2d56336-0f16-4870-bf64-84b3fd97c9c0}" />
 <img src="https://img.shields.io/github/license/semanticdata/firefox-whatsapp-pinned" />
 </p>
 
