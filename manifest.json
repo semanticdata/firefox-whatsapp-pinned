@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "WhatsApp Pinned",
   "description": "Open or Go to a pinned tab with the WhatsApp Web app.",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "background": {
     "scripts": [
       "background.js"
