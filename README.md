@@ -8,6 +8,8 @@
 
 A Firefox extension to open or toggle a pinned tab with WhatsApp Web within it. This extension also adds a shortcut, and a button toggle within the toolbar.
 
+[![Get the Addon](https://raw.githubusercontent.com/semanticdata/text-revealer-firefox-extension/master/firefox.png)](https://addons.mozilla.org/en-US/firefox/addon/whatsapp-pinned/)
+
 ## Usage
 
 1. Toggle the pinned tab by pressing _`Alt+Shift+W`_. This shortcut can be changed by going to _`Add-ons` → `WhatsApp Pinned` → `Options`_.
